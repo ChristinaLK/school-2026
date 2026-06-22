@@ -71,8 +71,7 @@ All School participants and staff are encourage to attend!
       <td>12:15</td>
       <td>13:15</td>
       <td>
-        Lunch<br>
-        Domain groups: TBD
+        Lunch in research domain groups
       </td>
       <td>-</td>
     </tr>
@@ -85,8 +84,8 @@ All School participants and staff are encourage to attend!
     <tr>
       <td>14:15</td>
       <td>15:00</td>
-      <td><span class="before-dot text-pink">Exercises: Many jobs (2.n series)</span></td>
-        <span class="before-dot text-black">Individual consultations</span>
+      <td><span class="before-dot text-pink">Exercises: Many jobs (2.n series)</span><br>
+        <span class="before-dot text-black">Individual consultations</span></td>
       <td>-</td>
     </tr>
     <tr>
@@ -97,16 +96,18 @@ All School participants and staff are encourage to attend!
     </tr> 
     <tr>
       <td>15:15</td>
-      <td>15:30</td>
-      <td><span class="before-dot text-light-blue">Lecture: Setting goals for the School and beyond</span></td>
-      <td>Christina</td>
-    </tr>
-    <tr>
-      <td>15:30</td>
-      <td>17:00</td>
+      <td>16:45</td>
       <td>
         <span class="before-dot text-pink">Exercises: Goals and unfinished exercises</span><br>
         <span class="before-dot text-black">Individual consultations</span>
+      </td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>16:45</td>
+      <td>17:00</td>
+      <td>
+        <span class="before-dot text-green">End of day wrap up</span><br>
       </td>
       <td>-</td>
     </tr>
@@ -144,7 +145,7 @@ All School participants and staff are encourage to attend!
       <td>9:00</td>
       <td>9:45</td>
       <td><span class="before-dot text-light-blue">Lecture: Software portability</span></td>
-      <td>Tim C.</td>
+      <td>Christina</td>
     </tr>
     <tr>
       <td>9:45</td>
@@ -199,13 +200,22 @@ All School participants and staff are encourage to attend!
     </tr>
     <tr>
       <td>15:45</td>
-      <td>17:00</td>
+      <td>16:45</td>
       <td>
         <span class="before-dot text-pink">Exercises: OSPool and unfinished exercises</span><br>
         <span class="before-dot text-black">Individual consultations</span>
       </td>
       <td>staff</td>
     </tr>
+    <tr>
+      <td>16:45</td>
+      <td>17:00</td>
+      <td>
+        <span class="before-dot text-green">End of day wrap up</span><br>
+      </td>
+      <td>-</td>
+    </tr>
+
     <!--<tr>
       <td>19:00</td>
       <td>20:30</td>
@@ -271,9 +281,17 @@ All School participants and staff are encourage to attend!
     </tr>
     <tr>
       <td>12:00</td>
-      <td>12:30</td>
+      <td>12:15</td>
       <td>Open Q&amp;A and discussion time</td>
       <td>staff</td>
+    </tr>
+    <tr>
+      <td>12:15</td>
+      <td>12:30</td>
+      <td>
+        <span class="before-dot text-green">End of day wrap up</span><br>
+      </td>
+      <td>-</td>
     </tr>
     <tr>
       <td>12:30</td>
@@ -381,9 +399,17 @@ All School participants and staff are encourage to attend!
     </tr>
     <tr>
       <td>15:45</td>
-      <td>16:30</td>
+      <td>16:45</td>
       <td><span class="before-dot text-light-blue">Lecture: Machine Learning and HTC</span></td>
       <td>Ian</td>
+    </tr>
+    <tr>
+      <td>16:45</td>
+      <td>17:00</td>
+      <td>
+        <span class="before-dot text-green">End of day wrap up</span><br>
+      </td>
+      <td>-</td>
     </tr>
 <!--    <tr>
       <td>19:00</td>
@@ -498,12 +524,12 @@ All School participants and staff are encourage to attend!
       <td>15:30</td>
       <td>16:30</td>
       <td>HTC and HTCondor Philosophy</td>
-      <td>Dr. Miron Livny; Greg Thain</td>
+      <td>TBD</td>
     </tr>
     <tr>
       <td>16:40</td>
       <td>17:10</td>
-      <td><span class="before-dot text-light-blue">Lecture: Forward</span></td>
+      <td><span class="before-dot text-green">Lecture: Forward</span></td>
       <td>Tim</td>
     </tr>
   </tbody>
