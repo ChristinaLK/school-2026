@@ -163,9 +163,9 @@ All School participants and staff are encourage to attend!
       <td>-</td>
     </tr>
     <tr>
-      <td>11:30</td>
+      <td>10:45</td>
       <td>12:15</td>
-      <td><span class="before-dot text-pink">Exercises: Software and unfinished exercises</span>
+      <td><span class="before-dot text-pink">Exercises: Software and unfinished exercises</span><br>
               <span class="before-dot text-black">Individual consultations</span>
       </td>
       <td>-</td>
@@ -215,16 +215,6 @@ All School participants and staff are encourage to attend!
       </td>
       <td>-</td>
     </tr>
-
-    <!--<tr>
-      <td>19:00</td>
-      <td>20:30</td>
-      <td>
-        <span class="before-dot text-orange">Evening work session (optional)</span><br>
-        Memorial Union – Board Room (3rd Floor East)
-      </td>
-      <td>Christina, Showmic, Tim C.</td>
-    </tr> -->
   </tbody>
 </table>
 
@@ -250,7 +240,7 @@ All School participants and staff are encourage to attend!
       <td>9:00</td>
       <td>9:45</td>
       <td><span class="before-dot text-light-blue">Lecture: Working with data</span></td>
-      <td>Showmic</td>
+      <td>Danny</td>
     </tr>
     <tr>
       <td>9:45</td>
@@ -310,15 +300,6 @@ All School participants and staff are encourage to attend!
       </td>
       <td>staff</td>
     </tr>
-<!--    <tr>
-      <td>19:00</td>
-      <td>20:30</td>
-      <td>
-        <span class="before-dot text-orange">Evening work session (optional)</span><br>
-        Memorial Union – Board Room (3rd Floor East)
-      </td>
-      <td>Amber, Showmic</td>
-    </tr> -->
   </tbody>
 </table>
 
@@ -343,7 +324,7 @@ All School participants and staff are encourage to attend!
     <tr>
       <td>9:00</td>
       <td>9:45</td>
-      <td><span class="before-dot text-light-blue">Lecture: Troubleshooting</span></td>
+      <td><span class="before-dot text-light-blue">Lecture: Scaling up and troubleshooting</span></td>
       <td>Andrew</td>
     </tr>
     <tr>
@@ -411,15 +392,6 @@ All School participants and staff are encourage to attend!
       </td>
       <td>-</td>
     </tr>
-<!--    <tr>
-      <td>19:00</td>
-      <td>20:30</td>
-      <td>
-        <span class="before-dot text-orange">Evening work session (optional)</span><br>
-        Memorial Union – Board Room (3rd Floor East)
-      </td>
-      <td>Danny, Tim C.</td>
-    </tr> -->
   </tbody>
 </table>
 
